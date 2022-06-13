@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.8.2",
+    "moo": "^0.5.1",
+    "nearley": "^2.20.1",
+    "redux": "^4.2.0",
+    "redux-devtools-extension": "^2.13.9"
+  }
+}
